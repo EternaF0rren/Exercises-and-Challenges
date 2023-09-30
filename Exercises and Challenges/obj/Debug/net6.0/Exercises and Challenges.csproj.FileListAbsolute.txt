@@ -1,0 +1,14 @@
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\bin\Debug\net6.0\Exercises and Challenges.exe
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\bin\Debug\net6.0\Exercises and Challenges.deps.json
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\bin\Debug\net6.0\Exercises and Challenges.runtimeconfig.json
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\bin\Debug\net6.0\Exercises and Challenges.dll
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\bin\Debug\net6.0\Exercises and Challenges.pdb
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\obj\Debug\net6.0\Exercises and Challenges.GeneratedMSBuildEditorConfig.editorconfig
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\obj\Debug\net6.0\Exercises and Challenges.AssemblyInfoInputs.cache
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\obj\Debug\net6.0\Exercises and Challenges.AssemblyInfo.cs
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\obj\Debug\net6.0\Exercises and Challenges.csproj.CoreCompileInputs.cache
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\obj\Debug\net6.0\Exercises and Challenges.dll
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\obj\Debug\net6.0\refint\Exercises and Challenges.dll
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\obj\Debug\net6.0\Exercises and Challenges.pdb
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\obj\Debug\net6.0\Exercises and Challenges.genruntimeconfig.cache
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\obj\Debug\net6.0\ref\Exercises and Challenges.dll
