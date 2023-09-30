@@ -1,0 +1,14 @@
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\bin\Debug\net6.0\ProjectEuler.exe
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\bin\Debug\net6.0\ProjectEuler.deps.json
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\bin\Debug\net6.0\ProjectEuler.runtimeconfig.json
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\bin\Debug\net6.0\ProjectEuler.dll
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\bin\Debug\net6.0\ProjectEuler.pdb
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\obj\Debug\net6.0\ProjectEuler.GeneratedMSBuildEditorConfig.editorconfig
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\obj\Debug\net6.0\ProjectEuler.AssemblyInfoInputs.cache
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\obj\Debug\net6.0\ProjectEuler.AssemblyInfo.cs
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\obj\Debug\net6.0\ProjectEuler.csproj.CoreCompileInputs.cache
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\obj\Debug\net6.0\ProjectEuler.dll
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\obj\Debug\net6.0\refint\ProjectEuler.dll
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\obj\Debug\net6.0\ProjectEuler.pdb
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\obj\Debug\net6.0\ProjectEuler.genruntimeconfig.cache
+S:\Code\C#\Exercises and Challenges\Exercises and Challenges\obj\Debug\net6.0\ref\ProjectEuler.dll
