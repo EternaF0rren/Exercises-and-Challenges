@@ -77,7 +77,7 @@ namespace ProjectEulerExercises
             //        }
             //    }
             //    else break;
-                
+
             //    if (box == 2 && (number % denominator == 0))
             //    {
             //        sum *= denominator;
@@ -86,6 +86,77 @@ namespace ProjectEulerExercises
             //}
             #endregion
 
+            #region 4. Largest Palindrome Product
+            // Find the largest palindrome made from the product of two 3-digit numbers.
+
+            //int container = 0;
+
+            //for (int i = 999; i != 100; i--)
+            //{
+            //    for (int j = 999; j != 100; j--)
+            //    {
+            //        int number = i * j;                   
+
+            //        if (((number - (number % 100000))/100000 == number % 10) 
+            //           && (((number % 100000) - (number % 10000))/10000 == ((number % 100) - (number % 10))/10) 
+            //           && (((number % 10000) - (number % 1000))/1000 == ((number % 1000) - (number % 100))/100))
+            //        {
+            //            if (number > container) container = number;
+            //        }
+            //    }
+            //}
+            //Console.WriteLine(container);
+
+            #endregion
+
+            #region 5. Smallest Multiple
+            // What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
+
+            //int i = 0;
+            //int lenght = 20;
+            //int[] array = new int[lenght];
+            //int counter;
+            //bool flag = true;
+
+            //for (int a = 0; a < array.Length; a++)
+            //{
+            //    array[a] = a + 1;
+            //}
+
+            //while (flag)
+            //{
+            //    i++;
+            //    counter = 0;
+            //    for(int a = lenght; a > 0; a--)
+            //    {
+            //        if (i % array[a - 1] == 0) counter++;
+            //        else break;
+
+            //        if (counter == lenght)
+            //        {
+            //            Console.WriteLine(i);
+            //            flag = false;
+            //        }
+            //    }
+            //}
+            #endregion
+
+            #region 6. Sum Square Difference
+            // Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
+
+            //int[] array = new int[100];
+            //int sumSq = 0;
+            //long sqSum = 0;
+
+            //for (int a = 0; a < array.Length; a++)
+            //{
+            //    array[a] = a + 1;
+            //    sumSq += array[a]* array[a];
+            //    sqSum = sqSum + (a+1);
+            //}
+
+            //Console.WriteLine(sqSum * sqSum - sumSq);
+            #endregion
         }
     }
 }
