@@ -3,5 +3,5 @@ Here I'll put my solutions for different programming exercises and challenges, u
 
 
 1. Project Euler - https://projecteuler.net/archives answers & solutions.
-   +  [Exercises from 1 to 50](https://github.com/EternaF0rren/Exercises-and-Challenges/blob/master/Exercises%20and%20Challenges/Exe_1_50.cs) (8/50 complete).
+   +  [Exercises from 1 to 50](https://github.com/EternaF0rren/Exercises-and-Challenges/blob/master/Exercises%20and%20Challenges/Exe_1_50.cs) (10/50 complete).
 
